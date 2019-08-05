@@ -11,10 +11,14 @@ npm install -g md2gslides
 md2gslides slides.md
 ```
 
+or
+
+```
+md2gslides --use-fileio slides.md
+```
+
 (The first time you use it, you'll need to give it authorization and copy a code.)
 
 You'll get Google slides generated for you, like this:
 
-https://docs.google.com/presentation/d/1vOuRP_UChyl_LilmDFiCMLmeTA6z0LK0ZvUzTa5-vIg/edit?usp=sharing
-
-(except for the last slide)
+https://docs.google.com/presentation/d/1epp5FmKhI3legbphQqkUTonJ-QrN7GGrBk715_-cGyI/edit?usp=sharing

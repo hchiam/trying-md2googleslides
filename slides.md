@@ -40,6 +40,12 @@ or <span style="text-decoration: underline">underline</span>, even <span style="
 
 After this line I get the message `Unable to generate slides: Local images require --use-fileio option`
 
+Instead, try [the following command](https://github.com/gsuitedevs/md2googleslides/issues/59#issuecomment-518031080):
+
+```bash
+md2gslides --use-fileio slides.md
+```
+
 ---
 # Or some SVG?
 

@@ -22,3 +22,11 @@ md2gslides --use-fileio slides.md
 You'll get Google slides generated for you, like this:
 
 https://docs.google.com/presentation/d/1epp5FmKhI3legbphQqkUTonJ-QrN7GGrBk715_-cGyI/edit?usp=sharing
+
+## Notes that might be helpful:
+
+https://github.com/gsuitedevs/md2googleslides/issues/70#issuecomment-616432383
+
+~/.credentials/md2gslides.json
+
+https://developers.google.com/slides/quickstart/apps-script
